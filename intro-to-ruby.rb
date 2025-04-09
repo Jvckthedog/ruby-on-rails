@@ -91,6 +91,11 @@ num_array.push(3, 4) #=> [1, 2, 3, 4]
 num_array << 5 #=> [1, 2, 3, 4, 5]
 
 
+#adding/subtracting arrays
+a = [1,2.3]
+b = [3.4.5]
+
+puts a + b 
 
 
 
